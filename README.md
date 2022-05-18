@@ -1,3 +1,3 @@
 # FirstWebSite
 Ilk web sitesi odevi
-patika.dev
+https://www.patika.dev/tr
